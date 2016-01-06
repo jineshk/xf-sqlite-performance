@@ -1,0 +1,1 @@
+Improving sqlite insert performance by manyfolds using transactions
